@@ -1,0 +1,28 @@
+
+*{
+
+}
+body{
+    margin: 0 auto;
+}
+header.header{
+    display: flex;
+    align-items: center;
+}
+header.header img{
+    width: 150px;
+}
+section.top-page {
+    background: url('../images/59b0887191ee1a27ee3d0aa085c5cf14.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+
+nav.menu {
+    display: flex;
+    list-style: none;
+}
+
+nav.menu li {
+    color: white;
+}
